@@ -1,1 +1,2 @@
 # pytorch-nn-module 
+# detail
